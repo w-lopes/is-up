@@ -5,9 +5,12 @@ Script simples para monitorar se um host caiu e avisa por telegram.
 ### Variáveis
 
 Alterar
-  <CHAT_ID>: Pelo ID da conversa no telegram ou grupo
 
-  <TOKEN>: Pelo token do bot
+```
+<CHAT_ID>: Pelo ID da conversa no telegram ou grupo
+
+<TOKEN>: Pelo token do bot
+```
 
 ### Monitoramento
 
